@@ -1,0 +1,70 @@
+{
+  "lang": "zh-CN",
+  "title": "文涛奇物录 · Wentao's Folio of Curiosities",
+  "description": "文涛奇物录：把工具、影像与作品放进同一个个人档案柜。",
+  "ogTitle": "文涛奇物录 · Wentao's Folio of Curiosities",
+  "ogDescription": "A personal cabinet: 工具库 · 走马灯 · 百物匣",
+  "brandMark": "WT · FOLIO",
+  "topbarText": "A PERSONAL ARCHIVE / 个人档案式的好奇心记录",
+  "location": "BEIJING, CHINA",
+  "timezone": "UTC+8",
+  "sealLines": [
+    "文涛",
+    "奇物录"
+  ],
+  "sealCaption": "FOLIO",
+  "mastKicker": "FOLIO",
+  "siteTitle": "文涛奇物录 · Wentao's Folio of Curiosities",
+  "figureLabel": "FIG. 01    PERSONAL WEBSITE / 个人网站",
+  "heroCabinet": "CABINET N° 1",
+  "heroTitle": "把工具、影像与作品\n放进同一个柜子",
+  "heroDeck": "这里收集我长期使用与持续关注的工具、软件、影像片段、完成的作品，以及一路上捡到的有趣物件与想法。不按时间线，只按好奇心的脉络归档。欢迎翻阅，随时取用。",
+  "heroCta": {
+    "label": "进入柜子 →",
+    "href": "#archive"
+  },
+  "homePanel": {
+    "labelTop": "HOME COMPLETE",
+    "bigLines": [
+      "首页",
+      "补全"
+    ],
+    "labelBottom": "SCROLL MAP / JUMP CHECKED",
+    "title": "这不是一张名片，而是一张可翻阅的桌面。",
+    "body": "首页保留“奇物柜”的第一印象，同时补上完整入口：你可以从主导航跳到关于、档案、随笔与联系；也可以从三个柜门进入工具库、走马灯和百物匣的详细区域。",
+    "items": [
+      {
+        "code": "01 / Home",
+        "text": "首屏介绍个人档案柜的主题和进入方式。"
+      },
+      {
+        "code": "02 / Archive",
+        "text": "三张目录卡分别通往三个完整内容房间。"
+      },
+      {
+        "code": "03 / Notes",
+        "text": "编目列表记录近期文章、方法论和建站清单。"
+      },
+      {
+        "code": "04 / Contact",
+        "text": "底部提供邮箱、RSS 与社交链接占位。"
+      }
+    ]
+  },
+  "rail": {
+    "plate": "PL. I\n—",
+    "dots": "▪▪▪▪▪",
+    "yearLines": [
+      "WT",
+      "20",
+      "26"
+    ]
+  },
+  "illustrationCaption": "Cabinet drawing / CSS-renderable line illustration",
+  "footer": {
+    "copyright": "© 2026 WENTAO",
+    "rights": "ALL RIGHTS RESERVED",
+    "built": "BUILT WITH HTML & CSS",
+    "lastUpdate": "LAST UPDATE 2026.05.18"
+  }
+}

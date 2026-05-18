@@ -1,0 +1,116 @@
+[
+  {
+    "id": "tool-arsenal",
+    "plate": "PL. I",
+    "roman": "I",
+    "title": "工具库",
+    "titleEn": "TOOL ARSENAL",
+    "summary": "记录长期使用与持续关注的工具、软件、硬件与方法论。",
+    "detailTitle": "工具库 · 把长期使用的工具变成索引",
+    "detailSummary": "这里用于收藏软件、硬件、自动化脚本、AI 工作流和方法论。不是简单罗列链接，而是记录“为什么留下它、适合什么场景、有什么替代方案”。",
+    "art": "tool",
+    "specs": [
+      {
+        "tag": "Software",
+        "title": "常用软件",
+        "text": "写作、设计、演示、知识管理和效率工具。"
+      },
+      {
+        "tag": "AI Workflow",
+        "title": "AI 工作流",
+        "text": "提示词、Agent 使用方式、模型对比和自动化模板。"
+      },
+      {
+        "tag": "Hardware",
+        "title": "桌面硬件",
+        "text": "设备、外设、拍摄装备和可复用的配置清单。"
+      }
+    ],
+    "links": [
+      {
+        "label": "下一柜：走马灯 →",
+        "href": "#motion-log"
+      },
+      {
+        "label": "回到首页 ↑",
+        "href": "#home"
+      }
+    ]
+  },
+  {
+    "id": "motion-log",
+    "plate": "PL. II",
+    "roman": "II",
+    "title": "走马灯",
+    "titleEn": "MOTION LOG",
+    "summary": "影像实验、动态记录与视觉片段，让时间以另一种方式被看见。",
+    "detailTitle": "走马灯 · 影像、动态与视觉实验",
+    "detailSummary": "这里存放短视频、视觉片段、动效想法和拍摄实验。它像一个可以转动的影像盒子，把过程中的灵感、失败样片和完成片段都留下。",
+    "art": "motion",
+    "specs": [
+      {
+        "tag": "Video",
+        "title": "影像片段",
+        "text": "拍摄练习、项目花絮、AI 视频和剪辑样片。"
+      },
+      {
+        "tag": "Motion",
+        "title": "动效记录",
+        "text": "网页交互、PPT 动画和视觉转场的实验草稿。"
+      },
+      {
+        "tag": "Storyboard",
+        "title": "分镜笔记",
+        "text": "镜头语言、节奏、声音与叙事结构记录。"
+      }
+    ],
+    "links": [
+      {
+        "label": "下一柜：百物匣 →",
+        "href": "#curio-box"
+      },
+      {
+        "label": "回到档案 ↑",
+        "href": "#archive"
+      }
+    ]
+  },
+  {
+    "id": "curio-box",
+    "plate": "PL. III",
+    "roman": "III",
+    "title": "百物匣",
+    "titleEn": "CURIO BOX",
+    "summary": "收集的物件、书摘摘录、灵感便签，以及奇怪但有趣的东西们。",
+    "detailTitle": "百物匣 · 物件、书摘与灵感便签",
+    "detailSummary": "这里用于保存那些暂时无法归类、但值得被留下的东西：一句话、一张图、一个器物、一段摘录，或者一次偶然看到的好设计。",
+    "art": "curio",
+    "specs": [
+      {
+        "tag": "Objects",
+        "title": "物件收藏",
+        "text": "有趣的物品、包装、纸张、器具和桌面小物。"
+      },
+      {
+        "tag": "Reading",
+        "title": "阅读摘录",
+        "text": "书摘、文章、观点和适合再次引用的句子。"
+      },
+      {
+        "tag": "Fragments",
+        "title": "碎片灵感",
+        "text": "尚未成型的项目想法、视觉方向和命名草案。"
+      }
+    ],
+    "links": [
+      {
+        "label": "查看编目 →",
+        "href": "#notes"
+      },
+      {
+        "label": "回到首页 ↑",
+        "href": "#home"
+      }
+    ]
+  }
+]

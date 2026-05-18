@@ -1,0 +1,22 @@
+[
+  {
+    "label": "首页 HOME",
+    "href": "#home"
+  },
+  {
+    "label": "关于 ABOUT",
+    "href": "#about"
+  },
+  {
+    "label": "档案 ARCHIVE",
+    "href": "#archive"
+  },
+  {
+    "label": "随笔 NOTES",
+    "href": "#notes"
+  },
+  {
+    "label": "联系 CONTACT",
+    "href": "#contact"
+  }
+]

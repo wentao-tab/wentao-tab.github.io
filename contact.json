@@ -1,0 +1,33 @@
+{
+  "email": "hello@example.com",
+  "status": "静态网站，无后端 API。",
+  "statusEn": "HTML + CSS + JSON CONTENT",
+  "social": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "Archive",
+      "href": "#archive"
+    },
+    {
+      "label": "Notes",
+      "href": "#notes"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "EMAIL",
+      "href": "mailto:hello@example.com"
+    },
+    {
+      "label": "RSS",
+      "href": "#notes"
+    },
+    {
+      "label": "GITHUB",
+      "href": "#contact"
+    }
+  ]
+}

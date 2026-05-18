@@ -1,0 +1,35 @@
+{
+  "heading": "INFORMATION",
+  "cabinet": "CABINET N° 1",
+  "items": [
+    {
+      "icon": "▣",
+      "label": "归档条目",
+      "labelEn": "ITEMS ARCHIVED",
+      "value": "317"
+    },
+    {
+      "icon": "▤",
+      "label": "影像片段",
+      "labelEn": "MOTION CLIPS",
+      "value": "128"
+    },
+    {
+      "icon": "▥",
+      "label": "随笔记录",
+      "labelEn": "NOTES",
+      "value": "86"
+    },
+    {
+      "icon": "◇",
+      "label": "物件收藏",
+      "labelEn": "CURATED OBJECTS",
+      "value": "203"
+    }
+  ],
+  "note": {
+    "title": "KEEP\nCURIOUS.",
+    "symbol": "✧",
+    "geo": "39°54′ N\n116°23′ E"
+  }
+}
