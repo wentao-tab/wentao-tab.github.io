@@ -1,24 +1,24 @@
 {
   "lang": "zh-CN",
-  "title": "文涛奇物录 · Wentao's Folio of Curiosities",
-  "description": "文涛奇物录：把工具、影像与作品放进同一个个人档案柜。",
+  "title": "文韬奇物录 · Wentao's Folio of Curiosities",
+  "description": "文韬奇物录：把思考、影像与碎片放进同一个个人档案柜。",
   "ogTitle": "文涛奇物录 · Wentao's Folio of Curiosities",
-  "ogDescription": "A personal cabinet: 工具库 · 走马灯 · 百物匣",
+  "ogDescription": "A personal cabinet: 读后感悟 · 走马灯 · 百物匣",
   "brandMark": "WT · FOLIO",
   "topbarText": "A PERSONAL ARCHIVE / 个人档案式的好奇心记录",
   "location": "BEIJING, CHINA",
   "timezone": "UTC+8",
   "sealLines": [
-    "文涛",
+    "文韬",
     "奇物录"
   ],
   "sealCaption": "FOLIO",
   "mastKicker": "FOLIO",
-  "siteTitle": "文涛奇物录 · Wentao's Folio of Curiosities",
+  "siteTitle": "文韬奇物录 · Wentao's Folio of Curiosities",
   "figureLabel": "FIG. 01    PERSONAL WEBSITE / 个人网站",
   "heroCabinet": "CABINET N° 1",
-  "heroTitle": "把工具、影像与作品\n放进同一个柜子",
-  "heroDeck": "这里收集我长期使用与持续关注的工具、软件、影像片段、完成的作品，以及一路上捡到的有趣物件与想法。不按时间线，只按好奇心的脉络归档。欢迎翻阅，随时取用。",
+  "heroTitle": "把思考、影像与碎片放进同一个个人档案柜",
+  "heroDeck": "这里收集我长期思考、使用软件、完成的作品，以及一路上捡到的有趣物件与想法。不按时间线，只按好奇心的脉络归档。欢迎翻阅，随时取用。",
   "heroCta": {
     "label": "进入柜子 →",
     "href": "#archive"
